@@ -1,0 +1,5 @@
+@media (max-width: 1000px){
+  .hide-on-med-and-down#nav-mobile{
+    display: block!important;
+  }
+}
